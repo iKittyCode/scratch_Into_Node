@@ -1,0 +1,15 @@
+{
+  "name": "scratch_into_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Syon",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "scratch-api": "^1.1.11"
+  }
+}
